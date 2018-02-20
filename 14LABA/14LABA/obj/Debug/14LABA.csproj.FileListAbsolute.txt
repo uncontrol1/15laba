@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\4 курс\петелин\14LABA\14LABA\bin\Debug\14LABA.exe.config
+C:\Users\user\Desktop\4 курс\петелин\14LABA\14LABA\bin\Debug\14LABA.exe
+C:\Users\user\Desktop\4 курс\петелин\14LABA\14LABA\bin\Debug\14LABA.pdb
+C:\Users\user\Desktop\4 курс\петелин\14LABA\14LABA\obj\Debug\14LABA.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\4 курс\петелин\14LABA\14LABA\obj\Debug\_14LABA.Form1.resources
+C:\Users\user\Desktop\4 курс\петелин\14LABA\14LABA\obj\Debug\_14LABA.Properties.Resources.resources
+C:\Users\user\Desktop\4 курс\петелин\14LABA\14LABA\obj\Debug\14LABA.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\4 курс\петелин\14LABA\14LABA\obj\Debug\14LABA.exe
+C:\Users\user\Desktop\4 курс\петелин\14LABA\14LABA\obj\Debug\14LABA.pdb
+C:\MyFirstGIT\.git\14LABA\14LABA\bin\Debug\14LABA.exe.config
+C:\MyFirstGIT\.git\14LABA\14LABA\obj\Debug\14LABA.exe
+C:\MyFirstGIT\.git\14LABA\14LABA\obj\Debug\14LABA.pdb
+C:\MyFirstGIT\14LABA\14LABA\bin\Debug\14LABA.exe.config
+C:\MyFirstGIT\14LABA\14LABA\obj\Debug\14LABA.exe
+C:\MyFirstGIT\14LABA\14LABA\obj\Debug\14LABA.pdb
